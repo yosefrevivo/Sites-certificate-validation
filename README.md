@@ -1,5 +1,5 @@
 Security Project 2 - 
-Yosef Revivo 318202645
+Yosef Revivo
 
 The current project comes to simulate and introduce a mechanism for generating and verifying site certificates.
 It is built so that each server is a site in itself that can be init by -- npm start -- cmd in the terminal.
